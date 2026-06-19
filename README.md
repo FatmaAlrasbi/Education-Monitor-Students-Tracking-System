@@ -112,4 +112,8 @@ Main fixes:
 - Admin can add/delete students and teachers with user accounts.
 - Teacher can enter grades, attendance, and see failing students under 50.
 - Student sees only their own grades, attendance, average, and status.
+<img width="2559" height="1168" alt="Screenshot 2026-06-19 202938" src="https://github.com/user-attachments/assets/6f6c6ff8-34f0-40e9-8d12-3b4c8dae1606" />
+
+
+
 
