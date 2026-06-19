@@ -114,6 +114,25 @@ Main fixes:
 - Student sees only their own grades, attendance, average, and status.
 <img width="2559" height="1168" alt="Screenshot 2026-06-19 202938" src="https://github.com/user-attachments/assets/6f6c6ff8-34f0-40e9-8d12-3b4c8dae1606" />
 
+<img width="2557" height="1175" alt="Screenshot 2026-06-19 203055" src="https://github.com/user-attachments/assets/4e6be922-ba25-43f6-a7b0-a84c247bf1c6" />
+
+<img width="2533" height="1171" alt="Screenshot 2026-06-19 203153" src="https://github.com/user-attachments/assets/0aa9f515-5871-4438-a66f-3ea75a9ce90f" />
+
+<img width="2559" height="1175" alt="Screenshot 2026-06-19 203204" src="https://github.com/user-attachments/assets/7be474dc-e374-4450-8351-b9b8c1b9f7be" />
+
+<img width="2521" height="1169" alt="Screenshot 2026-06-19 203216" src="https://github.com/user-attachments/assets/a6fbc389-86a1-4a45-84a1-d5ad4a655598" />
+
+<img width="2559" height="1170" alt="Screenshot 2026-06-19 203225" src="https://github.com/user-attachments/assets/ad59ee28-e9bd-4914-99c9-496dc5e4c87e" />
+
+<img width="2559" height="1170" alt="Screenshot 2026-06-19 203225" src="https://github.com/user-attachments/assets/2105f31b-52c2-4591-b692-a09f0c8a9862" />
+
+
+
+
+
+
+
+
 
 
 
